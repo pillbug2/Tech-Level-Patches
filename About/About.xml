@@ -2,7 +2,7 @@
 <ModMetaData>
     <name>Tech Level Patches</name>
     <author>pillbug2</author>
-    <packageId>pillbug2.techlevelpatches</packageId>
+    <packageId>pillbug2.techlevel</packageId>
     <description>Alter the tech level of modded buildings. Use with Better Architech Menu.</description>
     <supportedVersions>
         <li>1.6</li>
@@ -36,6 +36,9 @@
     <li>ferny.progressionstorage</li>
     <li>ferny.progressionscenarios</li>
     <li>ferny.progressiongravship</li>
+	
+	<!-- LOAD AFTER BETTER ARCHITECT -->
+	<li>ferny.betterarchitect</li>
 
     <!-- LOAD AFTER ALTERED MODS -->
     </loadAfter>
