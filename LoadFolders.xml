@@ -1,6 +1,24 @@
 <loadFolders>
-    <v1.6>
-        <li>/</li>
-        <li>1.6</li>
-    </v1.6>
+	<v1.6>
+		
+		<li>/</li>
+		
+		<!-- RIMWORLD -->
+		<li IfModActive="Ludeon.RimWorld">Patches/Rimworld Core</li>
+		
+		<!-- MODS -->
+		<li IfModActive="mf.ahm">Patches/Advance Incubator</li>
+		<li IfModActive="ucp.tabletopdecorations">Patches/Tabletop Decorations</li>
+		<li IfModActive="vanillaexpanded.vfefarming">Patches/VFE Farming</li>
+		<li IfModActive="oskarpotocki.vfe.tribals">Patches/VFE Tribals</li>
+		<li IfModActive="vanillaexpanded.vcookesushi">Patches/VCE Sushi</li>
+		<li IfModActive="farxmai2.vfestandalone">Patches/Furniture Expanded Pack</li>
+		<li IfModActive="deadbeat.medicalcabinet">Patches/Medical Cabinet</li>
+		<li IfModActive="adaptive.primitivestorage">Patches/Adaptive Primitive Storage</li>
+		<li IfModActive="">Patches/</li>
+		<li IfModActive="">Patches/</li>
+		<li IfModActive="">Patches/</li>
+		<li IfModActive="">Patches/</li>
+		
+	</v1.6>
 </loadFolders>
