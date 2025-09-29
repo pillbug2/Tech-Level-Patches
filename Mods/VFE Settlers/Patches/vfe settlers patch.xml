@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	
+	<!-- Industrial -->
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DoorSaloon"]</xpath>
+		<value>
+			<techLevel>Industrial</techLevel>
+		</value>
+	</Operation>
+	
+</Patch>

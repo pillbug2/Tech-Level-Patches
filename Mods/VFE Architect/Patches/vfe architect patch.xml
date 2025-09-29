@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	
+	<!-- Medieval -->
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/TerrainDef[@Name="StoneBridgeBase"]</xpath>
+		<value>
+			<techLevel>Medieval</techLevel>
+		</value>
+	</Operation>
+
+	<!-- Industrial -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/TerrainDef[defName="VFEArch_ConcreteFoundation"]</xpath>
+		<value>
+			<techLevel>Industrial</techLevel>
+		</value>
+	</Operation>
+	
+</Patch>

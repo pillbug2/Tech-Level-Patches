@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<!-- Industrial -->
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Expanded Framework</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="MF_VEFPipeConnector"]</xpath>
+			<value>
+				<techLevel>Industrial</techLevel>
+			</value>
+		</match>
+	</Operation>
+	
+</Patch>

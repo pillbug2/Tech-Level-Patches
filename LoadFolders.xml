@@ -1,24 +1,40 @@
 <loadFolders>
 	<v1.6>
-		
+		<!-- Core Patches -->
 		<li>/</li>
+		<li>1.6/</li>
+		<li IfModActive="ludeon.rimworld.royalty">Mods/Royalty</li>
+		<li IfModActive="ludeon.rimworld.ideology">Mods/Ideology</li>
+		<li IfModActive="ludeon.rimworld.anomaly">Mods/Anomaly</li>
+		<li IfModActive="ludeon.rimworld.odyssey">Mods/Odyssey</li>
 		
-		<!-- RIMWORLD -->
-		<li IfModActive="Ludeon.RimWorld">Patches/Rimworld Core</li>
-		
-		<!-- MODS -->
-		<li IfModActive="mf.ahm">Patches/Advance Incubator</li>
-		<li IfModActive="ucp.tabletopdecorations">Patches/Tabletop Decorations</li>
-		<li IfModActive="vanillaexpanded.vfefarming">Patches/VFE Farming</li>
-		<li IfModActive="oskarpotocki.vfe.tribals">Patches/VFE Tribals</li>
-		<li IfModActive="vanillaexpanded.vcookesushi">Patches/VCE Sushi</li>
-		<li IfModActive="farxmai2.vfestandalone">Patches/Furniture Expanded Pack</li>
-		<li IfModActive="deadbeat.medicalcabinet">Patches/Medical Cabinet</li>
-		<li IfModActive="adaptive.primitivestorage">Patches/Adaptive Primitive Storage</li>
-		<li IfModActive="">Patches/</li>
-		<li IfModActive="">Patches/</li>
-		<li IfModActive="">Patches/</li>
-		<li IfModActive="">Patches/</li>
+		<!-- Mods -->
+		<li IfModActive="mf.ahm">Mods/Advance Incubator</li>
+		<li IfModActive="vanillaexpanded.vfefarming">Mods/VFE Farming</li>
+		<li IfModActive="vanillaexpanded.vcookesushi">Mods/VCE Sushi</li>
+		<li IfModActive="adaptive.primitivestorage">Mods/Adaptive Primitive Storage</li>
+		<li IfModActive="vanillaexpanded.vhe">Mods/VE Hair</li>
+		<li IfModActive="bart.wbe">Mods/Aquatic Repopulation</li>
+		<li IfModActive="cixwow.advancedmoisturepump">Mods/Advanced Moisture Pump</li>
+		<li IfModActive="sumghai.medpod">Mods/MedPod</li>
+		<li IfModActive="mlie.temperaturegauge">Mods/Temperature Gauge</li>
+		<li IfModActive="vanillaexpanded.vfespacer">Mods/VFE Spacer</li>
+		<li IfModActive="vanillaexpanded.recycling">Mods/VE Recycling</li>
+		<li IfModActive="oskarpotocki.vfe.pirates">Mods/VE Pirates</li>
+		<li IfModActive="oskarpotocki.vanillavehiclesexpanded">Mods/VE Vehicles</li>
+		<li IfModActive="mrhydralisk.anomaliesexpected">Mods/Anomalies Expected</li>
+		<li IfModActive="tot.celetech.sub.fbs">Mods/CeleTech Subsonic Disruptor</li>
+		<li IfModActive="mlie.bioreactor">Mods/BioReactor</li>
+		<li IfModActive="ponpeco.pfkidsroom">Mods/Ponpeco Furniture Kids Rooms</li>
+		<li IfModActive="aelanna.eccentrictech.beachstuff">Mods/Eccentric Extras Beach Stuff</li>
+		<li IfModActive="nightmare.aquariums">Mods/Aquariums</li>
+		<li IfModActive="ccyt.stargatesmod">Mods/Stargates</li>
+		<li IfModActive="vanillaexpanded.vgeneticse">Mods/VE Genetics</li>
+		<li IfModActive="aoba.fortress.industrial">Mods/Fortification Industrial</li>
+		<li IfModActive="vanillaexpanded.vfearchitect">Mods/VFE Architect</li>
+		<li IfModActive="telardo.multifloors">Mods/MultiFloors</li>
+		<li IfModActive="rebuild.cotr.doorsandcorners">Mods/ReBuild DAC</li>
+		<li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">Mods/VFE Settlers</li>
 		
 	</v1.6>
 </loadFolders>

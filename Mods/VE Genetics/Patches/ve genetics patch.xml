@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	
+	<!-- Archotech -->
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="GR_BiomechanicalLabBeacon"]</xpath>
+		<value>
+			<techLevel>Archotech</techLevel>
+		</value>
+	</Operation>
+	
+</Patch>

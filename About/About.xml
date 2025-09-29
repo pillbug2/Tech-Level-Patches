@@ -38,25 +38,35 @@
         <li>ferny.progressionstorage</li>
         <li>ferny.progressionscenarios</li>
         <li>ferny.progressiongravship</li>
-	
-	    <!-- LOAD AFTER BETTER ARCHITECT -->
-		
-	    <li>ferny.betterarchitect</li>
 
         <!-- LOAD AFTER ALTERED MODS -->
 		
 	    <li>mf.ahm</li>
-	    <li>ucp.tabletopdecorations</li>
 	    <li>vanillaexpanded.vfefarming</li>
-		<li>oskarpotocki.vfe.tribals</li>
 		<li>vanillaexpanded.vcookesushi</li>
-		<li>farxmai2.vfestandalone</li>
-		<li>deadbeat.medicalcabinet</li>
 		<li>adaptive.primitivestorage</li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		
-    </loadAfter>
+		<li>vanillaexpanded.vhe</li>
+		<li>bart.wbe</li>
+		<li>cixwow.advancedmoisturepump</li>
+		<li>sumghai.medpod</li>
+		<li>mlie.temperaturegauge</li>
+		<li>vanillaexpanded.vfespacer</li>
+		<li>vanillaexpanded.recycling</li>
+		<li>oskarpotocki.vfe.pirates</li>
+		<li>oskarpotocki.vanillavehiclesexpanded</li>
+		<li>mrhydralisk.anomaliesexpected</li>
+		<li>tot.celetech.sub.fbs</li>
+		<li>mlie.bioreactor</li>
+		<li>ponpeco.pfkidsroom</li>
+		<li>aelanna.eccentrictech.beachstuff</li>
+		<li>nightmare.aquariums</li>
+		<li>ccyt.stargatesmod</li>
+		<li>vanillaexpanded.vgeneticse</li>
+		<li>aoba.fortress.industrial</li>
+		<li>vanillaexpanded.vfearchitect</li>
+		<li>telardo.multifloors</li>
+		<li>rebuild.cotr.doorsandcorners</li>
+		<li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
+
+	</loadAfter>
 </ModMetaData>
